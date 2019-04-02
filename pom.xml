@@ -40,13 +40,13 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
+        <id>deployment</id>
+        <name>Internal Release1</name>
         <url>http://52.66.196.78:8081/repository/all/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
-        <name>snapshot softx</name>
+        <id>deployment</id>
+        <name>Internal Releases</name>
         <url>http://52.66.196.78:8081/repository/all/</url>
     </snapshotRepository>
 </distributionManagement>
